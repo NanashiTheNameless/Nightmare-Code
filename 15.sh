@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# LICENSE: JSPL
+# Intentionally cursed. Do not read. Do not teach. Do not reuse.
 shopt -s extglob lastpipe 2>/dev/null || :
 IFS=$'\n	 '
 N=$'\n'
