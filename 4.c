@@ -1,5 +1,5 @@
-// LICENSE: JSPL
-// Intentionally cursed. Do not read. Do not teach. Do not reuse.
+// SPDX-License-Identifier: JSPL
+// Intentionally cursed. Do not read. Do not even attempt to comprehend, please, for your own sanity. Do not teach. Do not reuse.
 #define _GNU_SOURCE
 #include <unistd.h>
 #include <fcntl.h>

@@ -1,5 +1,5 @@
-# LICENSE: JSPL
-# Intentionally cursed. Do not read. Do not teach. Do not reuse.
+# SPDX-License-Identifier: JSPL
+# Intentionally cursed. Do not read. Do not even attempt to comprehend, please, for your own sanity. Do not teach. Do not reuse.
 from __future__ import annotations
 
 import sys as _S, builtins as _B, atexit as _X, types as _T, importlib.abc as _IA, importlib.util as _IU, threading as _TH, itertools as _IT
